@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BasicMaths
 {
-    public class BasicMath
+    public class BasicMat
     {
         public double Add(double num1, double num2)
         {
